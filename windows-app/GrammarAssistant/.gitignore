@@ -1,0 +1,16 @@
+# Build outputs
+bin/
+obj/
+publish/
+publish-small/
+
+# API key (sensitive)
+api-key.txt
+
+# IDE
+.vs/
+*.user
+*.suo
+
+# Debug
+*.pdb
